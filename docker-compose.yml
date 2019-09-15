@@ -1,6 +1,6 @@
 version: "3"
 services:
-  api_dev:
+  api:
     image: baptistarm/api-ts
     ports:
       - "5000:3050"
